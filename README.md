@@ -4,7 +4,8 @@
 
 This project implements various pathfinding algorithms on a geographical graph representing an institute's road network. The graph is given as an adjacency matrix where nodes represent geographical locations, and edges represent roads connecting those locations. The primary objective is to find the shortest path between a source and destination node using both uninformed and informed search algorithms.
 
-<img width="419" alt="image" src="https://github.com/user-attachments/assets/f4945177-7a91-426b-8fa8-4ba1f362bf35" />
+<img width="419" alt="image" src="https://github.com/user-attachments/assets/f4945177-7a91-426b-8fa8-4ba1f362bf35" />    
+
 Figure 1: A graph representing IIIT Delhi   
 
 
