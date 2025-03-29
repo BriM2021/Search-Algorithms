@@ -34,7 +34,7 @@ The project includes:
    - **A* Search**: An informed search algorithm that uses a heuristic to estimate the cost of the path from the current node to the destination.
    - **Bidirectional A* Search**: A combination of A* Search and bidirectional search for faster pathfinding.
 
-### 3. **Vulnerable Road Identification **
+### 3. **Vulnerable Road Identification**
    - Identifies vulnerable edges (roads) in the geographical network, whose removal would increase the number of disconnected components in the graph.
 
 ---
